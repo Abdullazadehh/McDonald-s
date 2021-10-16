@@ -1,0 +1,361 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    
+    }
+
+a{
+    color: black;
+    text-decoration: none;
+    border-radius: 2px;
+    font-family: sans-serif;
+}
+.span1{
+    display: flex;
+
+}
+.sekilmc{
+    margin: 40px;
+    margin-left: 100px;
+}
+
+.bir{
+    list-style: none;
+}
+.first{
+    margin-top: 25px;
+}
+.dil{
+    font-size: 0.8rem;
+    margin-left: 40px;
+    letter-spacing: 0.8px;
+}
+.mektub{
+    font-size: 0.8rem;
+    margin-left: 40px;
+    letter-spacing: 0.8px;
+}
+.karyera{
+    font-size: 0.8rem;
+    margin-left: 40px;
+    letter-spacing: 0.8px;
+}
+.second{
+    margin-top: 40px;
+    margin-left: 40px;
+    letter-spacing: 0.8px;
+}
+.yemekler{
+    margin-left: 40px;
+    letter-spacing: 0.8px;
+}
+.restoranlar{
+    margin-left: 30px;
+    letter-spacing: 0.8px;
+}
+.second2{
+    box-sizing: border-box;
+    border: 0px solid #FFBC0D;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding: 10px;
+    background-color: #FFBC0D;
+    margin-left: 300px;  
+    border-radius:4px;
+}
+.indisifarisedin{
+    background-color: #FFBC0D;
+    padding: 10px 20px;  
+}
+.span2{
+    display: flex;
+}
+.span2{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.yazi1{
+    width: 350px;
+    height: 250px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #292929;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 60px;
+    padding: 10px;
+    margin-top: -50px;
+    margin-left: 80px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Teko', sans-serif;
+    
+}
+.divetraf{
+    margin-left: 90px;
+    margin-top: 70px;
+}
+.etrafli1{
+background-color: #FFBC0D;
+width: 140px;
+height: 50px;
+border-radius: 6px;
+font-size: 15px;
+padding: 15px 50px;
+font-family: speede;
+}
+.span3{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.sekil2{
+    height: 360px;
+}
+.yazi2{
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Teko', sans-serif;
+    width: 300px;
+    height: 100px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.yazi21{
+    margin-top: 140px;
+    margin-left: 30px;
+    width: 350px;
+    font-size: 18px;
+    opacity: 0.7;
+}
+.divetraf2{
+    margin-top: 45px;
+}
+.etrafli2{
+    background-color: #FFBC0D;
+    margin-left: 35px;
+    padding: 15px 65px;
+    border-radius: 5px;
+    font-family: speede;
+}
+
+.span4{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.yazi3{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    width: 200px;
+    height: 200px;
+    color: #292929;
+    margin-right: 130px;
+}
+.yazi31{
+    width: 350px;
+    font-size: 18px;
+    opacity: 0.8;
+    margin-top: -15px;
+}
+.mc2{
+    margin-right:50px;
+}
+.divetraf3{
+    margin-top: 45px;
+}
+.etrafli3{
+    background-color: #FFBC0D;
+    padding: 15px 65px;
+    border-radius: 5px;
+    font-family: speede;
+}
+
+.span5{
+    display: flex;
+    margin-top: 110px;
+    justify-content: center;
+}
+.sekilson1{
+    margin-left: 100px;
+}
+.yazison1{
+    font-size:40px;
+    margin-left: 100px;
+    width: 358px;
+    height: 117px;
+}
+.yazison11{
+font-size: 20px;  
+margin-left: 90px;
+width: 400px;
+font-family: speede;
+margin-top: 0px;
+}
+.divetraf4{
+    margin-top: 45px;
+    margin-left:90px;
+}
+.etrafli4{
+    background-color: #FFBC0D;
+    padding: 15px 65px;
+    border-radius: 5px;
+    font-family: speede;
+}
+.sekilson2{
+    margin-left: 2px;
+}
+.yazison2{
+    font-size:40px;
+    margin-left:0px;
+    width: 358px;
+    height: 117px;
+}
+.yazison21{
+font-size: 20px;  
+margin-left: 30px;
+width: 400px;
+font-family: speede;
+margin-top: 0px;
+}
+.divetraf5{
+    margin-top: 45px;
+    margin-left:0px;
+}
+.etrafli5{
+    background-color: #FFBC0D;
+    padding: 15px 65px;
+    border-radius: 5px;
+    font-family: speede;
+}
+
+.sekilson3{
+    margin-left: -40px;
+}
+.yazison3{
+    font-size:40px;
+    margin-left:-40px;
+    width: 358px;
+    height: 117px;
+}
+.yazison31{
+font-size: 20px;  
+margin-left: 0px;
+width: 400px;
+font-family: speede;
+margin-top: 0px;
+}
+.divetraf6{
+    margin-top: 45px;
+    margin-left:-40px;
+}
+.etrafli6{
+    background-color: #FFBC0D;
+    padding: 15px 65px;
+    border-radius: 5px;
+    font-family: speede;
+}
+.span6{
+    display: flex;
+    margin-top: 130px;
+    justify-content: center;
+    margin-left: -220px;
+}
+.div1{
+    margin-left: 100px;
+}
+.haq{
+margin-bottom: 10px;
+}
+.tarix{
+margin-top: 20px;
+}
+.xeber{
+margin-top: 20px;
+}
+.siz{
+margin-top: 20px;
+}
+.deyer{
+margin-top: 20px;
+font-size: 1.1rem;
+}
+.div2{
+    margin-left: 30px;
+    width: 200px;
+    height: 110px;
+    margin-right: 60px;
+}
+.biz{
+    margin-top: 20px;
+}
+.indi{
+    margin-top: 20px;
+}
+.wifi{
+    margin-top: 20px;
+}
+.delivery{
+    margin-top: 20px;
+}
+.mak{
+    margin-top: 20px;
+}
+.mobil{
+    margin-top: 20px;
+}
+.div4{
+    
+}
+.elaqe{
+    margin-left: 150px;
+    margin-right: -50px;
+}
+.tetbiq{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: -50px;
+}
+.restoran{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: -50px;
+}
+.dib{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.sosyal{
+    margin-left: 120px;
+    display: flex;
+}
+.fb{
+font-size: 1.5rem;
+}
+.youtube{
+margin-left: 30px;
+font-size: 1.5rem;
+}
+.insta{
+margin-left: 30px;
+font-size: 1.5rem;
+}
+.fb :hover{
+    color: #3c5a99;;    
+    }
+.youtube :hover{
+color:#CE1312 ;
+}
+.insta :hover{
+color: #D53474;
+}
+.appandroid{
+    margin-left: 650px;
+}
+.app{
+    margin-right: 13px;
+}
